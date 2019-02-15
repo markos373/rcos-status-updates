@@ -3,7 +3,7 @@
 > In this section, you can write about what you accomplished in the previous week.
 
 This week I experimented with inserting data into PostgreSQL from Python.  I have successfully created a table through the script, but
-am working on trying to export all of the data into tables in the databse.
+am working on trying to export all of the data into tables in the databse.  I also attended HackBU at Binghamton University, and learned a bit about React and NodeJS.  These technologies will probably show up on Hedgehogs.
 
 ## This Week's Plan
 

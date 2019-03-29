@@ -9,7 +9,7 @@ I have produced simple graphs using matplotlib and added effects to make it look
 > In this section, you can write about what you have planned for next week.
 
 I plan on expanding my graphs and adding trend lines, and if time permits, displaying of points
-upon hovering over.
+upon hovering over.  I also am calculating moving averages to use in plotting, although I'm not entirely sure what values should be mapped to each other.
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.

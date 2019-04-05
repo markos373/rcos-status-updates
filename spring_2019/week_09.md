@@ -9,7 +9,8 @@ which will allow lookup of tickers and displaying of graphs, but I have not figu
 
 > In this section, you can write about what you have planned for next week.
 
-I plan on working more on the HTML of the website to tidy it up.  I do not have much experience so I am extremely slow in building the page and understanding how things should link to each other.  
+I plan on working more on the HTML of the website to tidy it up.  I do not have much experience so I am extremely slow in building the page and understanding how things should link to each other.  My
+goal is the implement the search stock feature on the website to allow users to search a ticker and have a graph displayed.  
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.

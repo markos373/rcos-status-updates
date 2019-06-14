@@ -17,3 +17,4 @@ I'm having trouble using regex to match a desired string.  I think I can figure 
 ## Notes
 
 > This is an optional section for any sort of information that does not fall under any of the other categories.
+I forgot to push week 1 status update.  It is there now
